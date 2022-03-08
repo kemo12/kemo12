@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamel Dawoud</h1>
 <h3 align="center">I'm a software engineer and Front End Developer specialist in React.</h3>
 
-
+![](https://komarev.com/ghpvc/?username=kemo12)
 
 - 🔭 I’m currently working on olivx
 
