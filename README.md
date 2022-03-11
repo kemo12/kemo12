@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kemo12)
 
-- 🔭 I’m currently working on olivx
+- 🔭 I’m currently working on as Front-end-developer and software Engineer
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/kemo12](https://github.com/kemo12)
